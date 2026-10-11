@@ -1,4 +1,4 @@
-coming-soon.txt	794410e101774fa91bb2ebd4d2a4c21d20317e99
+coming-soon.txt	97c4e64719e26088d3039fc1f136bdce78301980
 descent-card.jpg	a50963ab178949f68285d7633471c7d834ce7c62
 descent-gameplay.jpg	37189aba5c0a82509de825a9ec6755e513b1efe9
 descent-stream.jpg	416eff3d606d4ec98e9c410ff1eba1903f9378fd

@@ -1,3 +1,7 @@
+boltgun2-card.jpg	a275eacbbe79dde6574f2b27ea8e3ea21e2ea689
+boltgun2-gameplay.jpg	6b5ddd00f88b877a9ef26764f2a1f0a392c87e36
+boltgun2-stream.jpg	a7bf49447a372107947837a99fee91b591352116
+boltgun2-title.jpg	46282fa39d901899d4f0c434c25b5fc54ed5403b
 coming-soon.txt	97c4e64719e26088d3039fc1f136bdce78301980
 descent-card.jpg	a50963ab178949f68285d7633471c7d834ce7c62
 descent-gameplay.jpg	37189aba5c0a82509de825a9ec6755e513b1efe9

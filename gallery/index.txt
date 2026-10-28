@@ -17,6 +17,7 @@ keflings-card.jpg	18ad8801577c75b1e36071d20a8d815e00ebec15
 keflings-gameplay.jpg	397ae1c65b69671a3bd565bec32b2e8b8572dc02
 keflings-stream.jpg	71f606697fe00f8016e8e5ec61008e9513e4c4bb
 keflings-title.jpg	e4ca53310308d5f1de5bffb63ad10f4923212b0d
+logs-channel.txt	78bf5246fbdba4396253d61139e871087f5d11d7
 nolf-card.jpg	29505d724603389a4f4963d6a5ad717b4d289c86
 nolf-gameplay.jpg	1be60774479b4bff2762f59334eec832569e9f1f
 nolf-stream.jpg	9771c3a5b0a7991069638706761e26da49b001ae

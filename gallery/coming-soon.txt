@@ -5,3 +5,4 @@
 tron2 | Tron 2.0 VR | Tron 2.0 (2003) in your headset: the Grid in stereo, with your disc and your weapons in your hands.
 swrc | Republic Commando VR | Star Wars Republic Commando (2005) in your headset: the gun in your hand, the commando's own hands doing the reloads, and the helmet HUD in stereo.
 doomvr | Doom VR | Doom, Doom II and the rest of the Doom family on PC VR, Quest 3 and Steam Frame, with the guns in your hands. It finds the Doom games you own and sets every one of them up.
+goldeneye | GoldenEye 007 VR | GoldenEye 007 (1997) in your headset: the whole campaign with the guns in your hands, and online matches with bots on our servers.

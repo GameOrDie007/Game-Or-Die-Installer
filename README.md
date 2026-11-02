@@ -8,11 +8,18 @@ One download for every Game Or Die VR mod. Pick a game, press **INSTALL**, then 
 
 1. Download the installer and double click it. There is nothing to unzip.
 2. Windows may show "Windows protected your PC", because the installer is not signed with a paid
-   certificate. Click **More info**, then **Run anyway**.
+   certificate. Click **More info**, then **Run anyway**. It's not a virus:
+   [this short video shows how](https://www.youtube.com/shorts/Vr1U4Qj8MGU). If your browser
+   holds the download back, open its downloads list and choose **Keep**.
 3. Pick a game on the left and press **INSTALL**. The installer finds your copy of the game
    (Steam, GOG or a disc install), puts the VR files in a VR folder beside it, and adds a desktop
    shortcut and a Steam library entry.
 4. Start Virtual Desktop or SteamVR, put your headset on, and press **PRESS START**.
+
+Games with a Quest 3 or Steam Frame version have tabs for those too. The Quest installs over the
+USB cable the first time; after that, **use Wi-Fi, no cable** lets the installer reach it over your
+network, restarts included. It puts a small helper on your Quest, Game Or Die Wi-Fi, which turns
+Wi-Fi debugging back on when the Quest starts. **stop using Wi-Fi** removes it again.
 
 The installer keeps itself up to date and shows **UPDATE** when a game has a new version. Your
 saves and settings are kept through every update and uninstall.
@@ -26,9 +33,11 @@ notes and how to install it by hand.
 
 ## Something not working?
 
-Press **logs** in the installer. It makes one zip on your desktop with the game's logs and a short
-description of your PC. Open an issue on the game's GitHub page with the zip and a line about what
-happened.
+Press **SEND LOGS** at the bottom right of the installer, say what happened, and press **SEND**. Your
+logs go straight to Game Or Die, and you get a code to quote on the
+[Game Or Die Discord](https://discord.gg/tZdccWFpAc). Leave **Include my latest save** ticked and your
+newest save comes with them, so we can load right where you were: your progress and in-game name,
+nothing else.
 
 ## For tools and hubs
 

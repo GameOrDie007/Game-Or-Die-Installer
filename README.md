@@ -16,6 +16,10 @@ One download for every Game Or Die VR mod. Pick a game, press **INSTALL**, then 
    shortcut and a Steam library entry.
 4. Start Virtual Desktop or SteamVR, put your headset on, and press **PRESS START**.
 
+A game that runs from one file you own (the N64 Racer's cartridge file) asks for it instead: press
+**FIND MY GAME** and pick it, or drop it on the window. A game that also plays on the monitor has a
+**PC** button beside **PC VR**, for playing with no headset.
+
 Games with a Quest 3 or Steam Frame version have tabs for those too. The Quest installs over the
 USB cable the first time; after that, **use Wi-Fi, no cable** lets the installer reach it over your
 network, restarts included. It puts a small helper on your Quest, Game Or Die Wi-Fi, which turns

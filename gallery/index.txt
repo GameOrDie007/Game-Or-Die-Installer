@@ -40,6 +40,8 @@ razexr-stream.jpg	f229d61357e59cbfcfae0e11d4c2067700955c53
 razexr-title.jpg	7c108642607364c167bf5fbe4ce76d54e3047ff4
 swe1r-card.jpg	42c6f66e8591fd2cfc3d318624c9f10faba4c245
 swe1r-gameplay.jpg	060412e1de5983d5e400f255398b0ef9cf303787
+swe1r-n64-card.jpg	881ec44acfab2c8a5f44fab3ecb131d744901944
+swe1r-n64-title.jpg	827ebf8221f6c6563db12e77ec31054efcb5c3fc
 swe1r-stream.jpg	bce4fb0fa5b6b939a11b156f4ea6fa6545647cf3
 swe1r-title.jpg	eadfbc4d7ba9ca78f58e047616343cea7ac59900
 swrc-card.jpg	da748d8ff3ad58455a65c1e22aacf5389d40b9f3
